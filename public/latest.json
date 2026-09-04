@@ -1,0 +1,18 @@
+﻿{
+    "success":  true,
+    "trade_date":  "2026-09-04",
+    "snapshot_time":  "2026-09-04T09:27:44+08:00",
+    "source":  "tencent",
+    "universe_count":  4411,
+    "up":  3231,
+    "flat":  525,
+    "down":  655,
+    "up_down_ratio":  4.9328244274809157,
+    "median_change_pct":  0.36523009495982989,
+    "plus_2":  154,
+    "minus_2":  67,
+    "plus_5":  22,
+    "minus_5":  18,
+    "published_at":  "2026-09-04T10:16:19.2122341+08:00",
+    "schema_version":  1
+}
